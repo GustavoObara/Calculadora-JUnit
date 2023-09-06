@@ -4,9 +4,9 @@ public class Calculadora {
 
     public static void main(String[] args) {
         
-        Somar sum        = new Somar();
-        Subtrair sub     = new Subtrair();
-        Dividir div      = new Dividir();
+        Somar       sum  = new Somar();
+        Subtrair    sub  = new Subtrair();
+        Dividir     div  = new Dividir();
         Multiplicar mult = new Multiplicar();
         
         /*==============Teste Somar===========*/

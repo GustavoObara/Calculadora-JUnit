@@ -9,20 +9,20 @@ Este projeto consiste em uma calculadora Java com classes para realizar operaç�
 O projeto inclui quatro classes principais, cada uma responsável por uma operação matemática específica:
 
 1. **Somar**
-   - **Método:** `somar(int a, int b)`
-   - Descrição: Realiza a operação de adição entre dois números inteiros `a` e `b` e retorna o resultado.
+   - **Método:** `somar(int num1, int num2)` `return num1 + num2`
+   - Descrição: Realiza a operação de adição entre dois números inteiros `num1` e `num2` e retorna o resultado.
 
 2. **Subtrair**
-   - **Método:** `subtrair(int a, int b)`
-   - Descrição: Realiza a operação de subtração entre dois números inteiros `a` e `b` e retorna o resultado.
+   - **Método:** `subtrair(int num1, int num2)` `return num1 - num2`
+   - Descrição: Realiza a operação de subtração entre dois números inteiros `num1` e `num2` e retorna o resultado.
 
 3. **Dividir**
-   - **Método:** `dividir(int a, int b)`
-   - Descrição: Realiza a operação de divisão entre dois números inteiros `a` e `b` e retorna o resultado. Cuidado com a divisão por zero.
+   - **Método:** `dividir(int num1, int num2)` `return num1 / num2`
+   - Descrição: Realiza a operação de divisão entre dois números inteiros `num1` e `num2` e retorna o resultado.
 
 4. **Multiplicar**
-   - **Método:** `multiplicar(int a, int b)`
-   - Descrição: Realiza a operação de multiplicação entre dois números inteiros `a` e `b` e retorna o resultado.
+   - **Método:** `multiplicar(int num1, int num2)` `return num1 * num2`
+   - Descrição: Realiza a operação de multiplicação entre dois números inteiros `num1` e `num2` e retorna o resultado.
 
 ## Estrutura do Projeto
 

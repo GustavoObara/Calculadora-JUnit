@@ -47,4 +47,4 @@ Os testes automatizados foram realizados na classe `CalculadoraJunitTest.java` u
 
 ## ![Imagem de Teste Automatizado](testeAutomatizado.png)
 
-## Última atualização - 08/09/2023
+## Última atualização - 16/11/2023

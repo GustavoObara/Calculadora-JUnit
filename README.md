@@ -47,4 +47,20 @@ Os testes automatizados foram realizados na classe `CalculadoraJunitTest.java` u
 
 ## ![Imagem de Teste Automatizado](testeAutomatizado.png)
 
+# Documentando as classes
+## Classe Main
+## ![Imagem da Documentação da classe Main](documentacao.png)
+
+## Classe Somar
+## ![Imagem da Documentação da classe Main](doc_somar.png)
+
+## Classe Subtrair
+## ![Imagem da Documentação da classe Main](doc_subtrair.png)
+
+## Classe Dividir
+## ![Imagem da Documentação da classe Main](doc_dividir.png)
+
+## Classe Multiplicar
+## ![Imagem da Documentação da classe Main](doc_multiplicar.png)
+
 ## Última atualização - 16/11/2023
